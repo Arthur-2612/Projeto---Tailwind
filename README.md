@@ -16,6 +16,12 @@ Link do projeto em produção:
 
 https://projeto-css-sdgs.vercel.app/
 
+## Repositório para comparação
+
+Projeto em CSS puro:
+
+https://github.com/Arthur-2612/Projeto-CSS.git
+
 ## Estrutura do projeto
 
 ```text
